@@ -1,0 +1,6 @@
+[package]
+name = "ex12_struct_fn"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

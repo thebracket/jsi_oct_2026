@@ -1,0 +1,8 @@
+code/target
+manual/book
+
+# Secrets - never commit (see skills/update-readme)
+.env
+
+# Runtime artifact from the serialization example
+code/users.json

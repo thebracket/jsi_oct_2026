@@ -1,0 +1,9 @@
+[package]
+name = "ex21_mem_c"
+version = "0.1.0"
+edition = "2024"
+
+default-run = "ex21_mem_c"
+
+[dependencies]
+libc = "0.2"

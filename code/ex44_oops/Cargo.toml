@@ -1,0 +1,4 @@
+[package]
+name = "ex44_oops"
+version = "0.1.0"
+edition = "2024"
