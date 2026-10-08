@@ -28,8 +28,8 @@ skills/
 ## Getting the Code
 
 ```bash
-git clone https://github.com/thebracket/jsi_telecom_training.git
-cd jsi_telecom_training
+git clone https://github.com/thebracket/jsi_oct_2026.git
+cd jsi_oct_2026
 ```
 
 ## Viewing the Manual
