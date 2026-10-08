@@ -12,7 +12,7 @@ The repository `README.md` is deliberately minimal. It contains only:
 3. `## Getting the Code`
 4. `## Viewing the Manual`
 5. `## Examples` (table)
-6. `## Contents` (mirrors `SUMMARY.md`, with placeholders marked)
+6. `## Contents` (mirrors `SUMMARY.md`; section boundaries as plain titles)
 
 Do **not** add extra preamble or explanation beyond the project's established
 conventions. Keep it to the sections above.
@@ -42,7 +42,9 @@ conventions. Keep it to the sections above.
    unchanged rows; write a short one-line description for new ones.
 3. Update **Contents** to mirror `SUMMARY.md` exactly:
    - chapter file exists → `[Title](manual/src/path.md)`
-   - chapter file missing → plain text `Title (placeholder)`
+   - chapter file missing → plain text `Title`. Section boundaries (e.g.
+     `Day One`, `Day Two`) stay plain — only a genuinely unwritten standalone
+     chapter gets `Title (placeholder)`.
    Match the nested indentation of `SUMMARY.md`.
 4. Update **Repository Layout** only if a directory was added or renamed.
 5. Verify that every relative link in the README resolves. Fix anything broken.

@@ -103,7 +103,7 @@ mdbook build
 - [Introduction](manual/src/intro/intro.md)
   - [Who Am I?](manual/src/intro/whoami.md)
   - [Format](manual/src/intro/format.md)
-- Day One (placeholder)
+- Day One
 - [First Encounter With Rust](manual/src/first/intro.md)
   - [Why Doesn't this Work?](manual/src/first/move_by_default.md)
   - [Move it Around](manual/src/first/move_it_around.md)
@@ -149,7 +149,7 @@ mdbook build
   - [Serialization with Serde](manual/src/eco/eco_serialize.md)
   - [Unit Tests](manual/src/eco/unit_tests.md)
   - [Benchmarking](manual/src/eco/benchmarking.md)
-- Day Two (placeholder)
+- Day Two
 - [Concurrency](manual/src/concurrency/intro.md)
   - [C++ Atomic](manual/src/concurrency/cpp_atomic.md)
   - [Rust Data Race](manual/src/concurrency/rust_data_race.md)
@@ -163,7 +163,7 @@ mdbook build
 - [Traits and OOP](manual/src/traits/implementing_traits.md)
   - [Define a Trait](manual/src/traits/make_a_trait.md)
   - [Don't Emulate Object Oriented Programming](manual/src/traits/OOPs.md)
-- Agentic Development with Rust (placeholder)
+- Agentic Development with Rust
   - [Compile Times](manual/src/agentic/compile_times.md)
   - [Disk Space](manual/src/agentic/disk_space.md)
   - [Skills](manual/src/agentic/skills.md)
