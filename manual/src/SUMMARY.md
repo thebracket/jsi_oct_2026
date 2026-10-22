@@ -61,6 +61,7 @@
   - [Async Hello World](./async/async_hello_world.md)
   - [Don't Hold a Mutex Over an Await](./async/mutex_over_await.md)
   - [Channels](./async/channels.md)
+- [Lifetimes](./lifetimes.md)
 - [Traits and OOP](./traits/implementing_traits.md)
   - [Define a Trait](./traits/make_a_trait.md)
   - [Don't Emulate Object Oriented Programming](./traits/OOPs.md)

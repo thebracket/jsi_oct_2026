@@ -1,4 +1,12 @@
-fn double(n: i32) -> i32 {
+/// Doubles a number
+///
+/// Arguments: the number to double.
+///
+/// ## Examples
+/// ```rust
+/// assert!(ex35_unit_tests::double(2) == 4);
+/// ```
+pub fn double(n: i32) -> i32 {
     n * 2
 }
 
@@ -9,6 +17,6 @@ mod test { // Create a module to hold the tests
     #[test] // This is a test, we want to include in our unit test runs
     fn two_times() {
         assert_eq!(4, double(2)); // Assert that 2*2 = 4
-        assert!(5 != double(2)); // Assert that it doesn't equal 5
+        assert_ne!(5, double(2)); // Assert that it doesn't equal 5
     }
 }
